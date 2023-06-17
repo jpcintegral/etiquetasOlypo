@@ -1,0 +1,537 @@
+{
+    "name": "MLOlimpo",
+    "securityToken": "MLOlimpo Token",
+    "sourceConnection": {
+        "name": "imgOlimpoIN",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNzAzNjU5NTI3YjY3NTA2YTE2OGFmMDc5YTM1N2U5NTgwYmVjOGEyNjY1ZWZlNzZkMGM0NWI1NTNiYjUyYjQ2NzYyNWZhMDQ2ZWJlODZiZDQ3NzJkYjM4MjMwZjkyNzZjZGJiZWJjYmNlNmFmN2MzYzVjMzE1ODdjNWE3Y2RlNzkiLCJpdiI6ImEzMGE4ODFkNGJlN2E1MGViZjU3YjIyNjRlZjZkNzU5NjJiZDE1OTA2MDk4NGNhOCJ9"
+        },
+        "id": "jEGG9oTBL"
+    },
+    "targetConnection": {
+        "name": "olimpoOut",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMDFkOTVlYzhkNTI3ZGI0MzhhZmVjMjM2ZDJkMzYxZmY0ZWI1MmMwZWVlYWY3MzllZDhlYjgwZmE3OTVmY2RhNGI1MGQ1MWVlYjE0MDQ5NmMyYTMzZTU1MjZkMWI1ZTZmOTRjMzVmZTUzZmZlNGFkYzM5ZmI3ODMwZGJhZWVhYTdhOGMyODBjODM0MDUxODdlYjJlNmJlNTMzMGNkNGI1ZiIsIml2IjoiM2MwZjdkYzZjNTg4MmZhYjcwNjI2MTg0YmM2MTVmY2ZjMzRkMmE5YmNiOTQyY2MzIn0="
+        },
+        "id": "81B5WcT7q"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "VERDE",
+            "color": "#5db300"
+        }
+    ],
+    "id": "R7aBToV4V",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYjE1NzVkMWMxZjBhYWYyZjI0Y2E2NDAwNjUyYzcyY2QyYjEzNzkxNTZlNTdiMjY1NDNkYzQ1MzI4OTUwMTUwMjhhMGJjMzQyMDYwY2U4ZjJhYjhlZTgwZGI4NGFiOTFjIiwiaXYiOiI5ZDBjYmFiNGJhZjJjOGYyYzQ0YzlkNWFiOTJkMzBmNGQ0M2NiZDk2OWRiOTI2YmIifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "b2783d3fb3a4773b2acc85e191efee50",
+    "assets": {
+        "bbd07478154ae666fea5ca363cbf673d": {
+            "format": "png",
+            "id": "bbd07478154ae666fea5ca363cbf673d",
+            "name": "vela_20230612_141948.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_141948.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b08452c1e891bd88a652874828c1d86d": {
+            "format": "png",
+            "id": "b08452c1e891bd88a652874828c1d86d",
+            "name": "vela_20230612_141949.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_141949.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "269944736ceb43b8c3e484abbb2bfb26": {
+            "format": "png",
+            "id": "269944736ceb43b8c3e484abbb2bfb26",
+            "name": "vela_20230612_141951.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_141951.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "12d09d6b9eb2431dc393bd36ae4a0dbe": {
+            "format": "png",
+            "id": "12d09d6b9eb2431dc393bd36ae4a0dbe",
+            "name": "vela_20230612_143846.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_143846.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f3185ef9a40651abd9ac52dee835e160": {
+            "format": "png",
+            "id": "f3185ef9a40651abd9ac52dee835e160",
+            "name": "vela_20230612_144046.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_144046.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "232f5aae177cd80cecffc74a5fd2d2b5": {
+            "format": "png",
+            "id": "232f5aae177cd80cecffc74a5fd2d2b5",
+            "name": "vela_20230612_144047.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_144047.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c32bfa741ffe6ec2f2e49e042592f747": {
+            "format": "png",
+            "id": "c32bfa741ffe6ec2f2e49e042592f747",
+            "name": "vela_20230612_144050.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_144050.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d55842fa775ff32f38193a62cd0fc97c": {
+            "format": "png",
+            "id": "d55842fa775ff32f38193a62cd0fc97c",
+            "name": "vela_20230612_145946.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_145946.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d5421b0c19c524626fdd2efa7ee0e832": {
+            "format": "png",
+            "id": "d5421b0c19c524626fdd2efa7ee0e832",
+            "name": "vela_20230612_145947.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_145947.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2dfcffd3def39b93657935f51cd1e737": {
+            "format": "png",
+            "id": "2dfcffd3def39b93657935f51cd1e737",
+            "name": "vela_20230612_150001.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_150001.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5ee97105ca8c1a0aa705a9fc450df9c0": {
+            "format": "png",
+            "id": "5ee97105ca8c1a0aa705a9fc450df9c0",
+            "name": "vela_20230612_150002.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_150002.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "53ce7fb79b121a62222de2a4778f9aee": {
+            "format": "png",
+            "id": "53ce7fb79b121a62222de2a4778f9aee",
+            "name": "vela_20230612_160305.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_160305.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "52c88db2e5b68b137ea305845d980d51": {
+            "format": "png",
+            "id": "52c88db2e5b68b137ea305845d980d51",
+            "name": "vela_20230612_163047.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_163047.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "30522036a4be072edccca829852582cc": {
+            "format": "png",
+            "id": "30522036a4be072edccca829852582cc",
+            "name": "vela_20230612_183216.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_183216.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7480aae357ef7a0bbd2a9ef2bd0fa153": {
+            "format": "png",
+            "id": "7480aae357ef7a0bbd2a9ef2bd0fa153",
+            "name": "vela_20230612_184416.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_184416.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b3b3edc3ee7109d020073261da3dcaa1": {
+            "format": "png",
+            "id": "b3b3edc3ee7109d020073261da3dcaa1",
+            "name": "vela_20230612_184418.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_184418.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9417392551e8bbfd4a2c693034398827": {
+            "format": "png",
+            "id": "9417392551e8bbfd4a2c693034398827",
+            "name": "vela_20230612_185430.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_185430.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1fcad6ff1d824c569c5789f3d351cb8c": {
+            "format": "png",
+            "id": "1fcad6ff1d824c569c5789f3d351cb8c",
+            "name": "vela_20230612_185433.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_185433.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "900a96d6677de272b951634eb65aa18f": {
+            "format": "png",
+            "id": "900a96d6677de272b951634eb65aa18f",
+            "name": "vela_20230612_185438.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_185438.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cb130bc097fcdc8da4d245245960dd1f": {
+            "format": "png",
+            "id": "cb130bc097fcdc8da4d245245960dd1f",
+            "name": "vela_20230612_185439.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_185439.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0b090aeb7ad28276b493eb9dd5d975f2": {
+            "format": "png",
+            "id": "0b090aeb7ad28276b493eb9dd5d975f2",
+            "name": "vela_20230612_191646.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_191646.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8e431117fac2096cab1f28f952b2d47b": {
+            "format": "png",
+            "id": "8e431117fac2096cab1f28f952b2d47b",
+            "name": "vela_20230612_191647.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_191647.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "37ab46024ded8fe68b2a6d0caae9c1aa": {
+            "format": "png",
+            "id": "37ab46024ded8fe68b2a6d0caae9c1aa",
+            "name": "vela_20230612_193046.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_193046.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bae2d0ac509c11d9913b000eac4be07e": {
+            "format": "png",
+            "id": "bae2d0ac509c11d9913b000eac4be07e",
+            "name": "vela_20230612_193048.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_193048.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "95293c8c046bce34cf1c8716d49b8e4a": {
+            "format": "png",
+            "id": "95293c8c046bce34cf1c8716d49b8e4a",
+            "name": "vela_20230612_194931.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_194931.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f02f0550323dc596002c34d043c509a6": {
+            "format": "png",
+            "id": "f02f0550323dc596002c34d043c509a6",
+            "name": "vela_20230612_194933.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_194933.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "49674e22d619c93f888ffb8b96ca9a38": {
+            "format": "png",
+            "id": "49674e22d619c93f888ffb8b96ca9a38",
+            "name": "vela_20230612_194935.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_194935.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "003a6befd0c7999bbddae6bccb3453f4": {
+            "format": "png",
+            "id": "003a6befd0c7999bbddae6bccb3453f4",
+            "name": "vela_20230612_204202.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_204202.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e3b401b309ebacd19a6a8665a2af48b1": {
+            "format": "png",
+            "id": "e3b401b309ebacd19a6a8665a2af48b1",
+            "name": "vela_20230612_204203.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_204203.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3dead60890009d49f635d51a601c0aed": {
+            "format": "png",
+            "id": "3dead60890009d49f635d51a601c0aed",
+            "name": "vela_20230612_204215.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_204215.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7a1d927de92e48e5e8d0f6d771497e51": {
+            "format": "png",
+            "id": "7a1d927de92e48e5e8d0f6d771497e51",
+            "name": "vela_20230612_204217.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_204217.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6c5a7d7e66dd38b0b233c5de41c8e4a9": {
+            "format": "png",
+            "id": "6c5a7d7e66dd38b0b233c5de41c8e4a9",
+            "name": "vela_20230612_204218.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_204218.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "570c817e0c594d6f794f5fe7f68f06cd": {
+            "format": "png",
+            "id": "570c817e0c594d6f794f5fe7f68f06cd",
+            "name": "vela_20230612_224401.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_224401.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "163426a35dc8caf0dce17e683d1c00bc": {
+            "format": "png",
+            "id": "163426a35dc8caf0dce17e683d1c00bc",
+            "name": "vela_20230612_224402.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_224402.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4ea66617f731d5c8165833e5c30d7f58": {
+            "format": "png",
+            "id": "4ea66617f731d5c8165833e5c30d7f58",
+            "name": "vela_20230612_224403.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_224403.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b66a1a7a78bb6926285961834d432021": {
+            "format": "png",
+            "id": "b66a1a7a78bb6926285961834d432021",
+            "name": "vela_20230612_231301.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_231301.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "58b69d62bde8e47b8ad08481e4809c24": {
+            "format": "png",
+            "id": "58b69d62bde8e47b8ad08481e4809c24",
+            "name": "vela_20230612_231304.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230612_231304.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "33f8fd4bc184c39582fe6196a76c8de1": {
+            "format": "png",
+            "id": "33f8fd4bc184c39582fe6196a76c8de1",
+            "name": "vela_20230613_003901.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230613_003901.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c08065238c791328f26aac1113967507": {
+            "format": "png",
+            "id": "c08065238c791328f26aac1113967507",
+            "name": "vela_20230613_003903.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230613_003903.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5a20661d0209b24f0609def4d6d461a5": {
+            "format": "png",
+            "id": "5a20661d0209b24f0609def4d6d461a5",
+            "name": "vela_20230613_040417.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230613_040417.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b2783d3fb3a4773b2acc85e191efee50": {
+            "format": "png",
+            "id": "b2783d3fb3a4773b2acc85e191efee50",
+            "name": "vela_20230613_075433.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/vela_20230613_075433.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}
