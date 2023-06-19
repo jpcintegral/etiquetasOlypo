@@ -6,7 +6,7 @@
         "description": null,
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNDUwYTJlMzI4NTgyZjI5YmNjNTc3NTVhZTY2ZTg0NWRiYzk4NmVhODM4N2EwOTdmM2UzZDIzNGI1N2EyN2NlZGZjMWRlOWYxMDBhMjhmYjdhYjZhNTQ2ZDc3NzI5NjYwYzgwZDJiNTQ1YzM2OGNjYWI3MGFjNzE5OTBjMDczNDciLCJpdiI6IjJkMDgxZWFlOTFiNDViYjQzMzY4ZGVhMzViYjI5NmJkNmY3NjIzZmEzMjc2ZjRiNCJ9"
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZjhlOWRjMWIyMWMxMTExNDI1MTVhYzhiMjI3ODBkODk4ZjM4ZGRkYzQ2OGE3MGFmMTNmOTM1MTYwMjE1MjZhZjNiMWE5ZWM5YTIyMzg3YWQ5YzgyNzMxNmJkZWU3MjdjZDhhYWNiMjZjYmUyZjEyYjU1YTJjMGQxZTE1MjQ3NGUiLCJpdiI6IjUzMGRjZTVmYTE1ODI3ZWYzNzY2YWMxNjMyZWYwNzVhYzZiMWM3Y2ZjNjEzZTE0MyJ9"
         },
         "id": "jEGG9oTBL"
     },
@@ -15,7 +15,7 @@
         "description": null,
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMWJhMzZlYmE3MDkxZmEwNjVmZjIyZmE0NGE4ZjIwZjk0Y2VlM2YyOTg0M2ZhNGJiMDc1ZWI2ZWViZTZmMGNiMDUyNzUxMmIwMWMwNmIwZWJiMmI4ZTJiNDVlZWE5NTc3Y2YxNjVhMmMwYzEzYWUxNmQyMWEzMzA2NTkxN2E4MjEzZjczMTExYmNiNmQzOGY1YzM0ZGNjZWFiNjZhYTI1MCIsIml2IjoiNTNhOGIxZGJjOTdhNmVjNjViNTFlMTUyMmZlMDYwNTA0NTg0OGM3NjNmNWFjZThiIn0="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMjkyM2U3NGE1ZTdhMWFjMWY1M2FmY2ZjMDRmNDA3NTQ0M2Q0NjE4OGJjM2ViN2FkYThlMjFmMTRkYzY2NWMxMjk1ZDg0NWI2Yzc0Y2RiNmEwOTE5MmY5NjQ3OWM3MzRhMTAyNDYyOTE1MDJlOGFiMzYyMDNiYmQzYTA2OTY2ODEwZWNjZWU3NjUyM2RkMzNmZjM2YzgxMjdhZGY1ZTJkOSIsIml2IjoiNTkwNGI3MDFjMjBkYzA3Nzk3MjIxYWU5OWVkNTU4NjU0ZjllY2QxNmEwZGNmNDFiIn0="
         },
         "id": "81B5WcT7q"
     },
@@ -38,11 +38,11 @@
     "exportFormat": {
         "providerType": "vottJson",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYWNkNzQ3ZWExZWIxMzQ3MWNkNzM1Mjk3OTc3ZmZmODdkNTljOWI4ZGQyZTU2MGU1ZDhhZTNlMTYwZjQ0MzJmNDE5MzQzZWRjZmFiMGE5MTY2OTJmYjM2ZDIwZWVhOGQ4IiwiaXYiOiI1NjBkZDc5MmQxM2U0MTVmYzdjMjljNGJiOTc3NTcyMTZkNmZiZTVhNTZkNjlhNTIifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzZjYzFhNmQwZjkzZjU4Nzk0YmQ2MWI0NzY3M2JmNTU0N2E1MWZiYWJmNmU3ODUzMGFlMTE1NmVlOGI2NDJiY2Y0MmVmNTBhODUwNDI2ZDhjYTllNGE0YWZlMzYyNjc5IiwiaXYiOiJhOWI2Mjk3MjVkZDE0MzlhNjQzZjRhMjRkM2E1NGYzYjM5YjcwNDQxNzBjODcxMzMifQ=="
         }
     },
     "version": "2.2.0",
-    "lastVisitedAssetId": "cf338d3d0a8c4fd2900a54013959a8f3",
+    "lastVisitedAssetId": "04c476d0c746d0237c82d19b1e8904ce",
     "assets": {
         "f9c831662ba649c0a31a12cf94037aee": {
             "format": "png",
@@ -114,18 +114,6 @@
                 "height": 1080
             },
             "state": 2,
-            "type": 1
-        },
-        "6a89789f02494df6bb18ded9bbadf67e": {
-            "format": "png",
-            "id": "6a89789f02494df6bb18ded9bbadf67e",
-            "name": "2buena_score_96_vela_20230617_042716.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230617_042716.png",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
-            "state": 1,
             "type": 1
         },
         "b1d0e763242e4b4faa4fc2ffdcfc0feb": {
@@ -2729,7 +2717,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "2915e7ab1a754e12966d249a04b05507": {
@@ -2741,7 +2729,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "da78d4dee7494ecabdba0ca2c4e15107": {
@@ -2789,7 +2777,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "259ba34fff0143a594c9990c7710e94d": {
@@ -2801,7 +2789,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "4deed8a77955472296443a49973e4c48": {
@@ -2813,7 +2801,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "ca7a46bf78564fe6a66f5038b0c86558": {
@@ -2837,7 +2825,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "2eeb9264853342a88b28f1d5770a94cf": {
@@ -2849,7 +2837,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "b22c530600ad41fd859484b407070692": {
@@ -2861,7 +2849,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "c1d700d2a5bd4bd2a1eb23b45fbf5fc6": {
@@ -2873,7 +2861,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "e2564cedc6804d3c8da94f312d8515eb": {
@@ -2909,7 +2897,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "27b5fc9830774f69bae653f6ce7c60e4": {
@@ -2921,7 +2909,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "51da9fbb18ed4ac4817ab902aea9aeb5": {
@@ -2933,7 +2921,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "419c73ebeb8642aaa7123f72cf2b94c0": {
@@ -2945,7 +2933,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "b86f438f87c140f8ba433f6acd3780ee": {
@@ -2969,30 +2957,6 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
-            "type": 1
-        },
-        "7a7b440499334827bfb91ba03c06ff7e": {
-            "format": "png",
-            "id": "7a7b440499334827bfb91ba03c06ff7e",
-            "name": "2buena_score_97_vela_20230618_025205.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_025205.png",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
-            "state": 1,
-            "type": 1
-        },
-        "3d93955f363941a8bf324fca9aa1b096": {
-            "format": "png",
-            "id": "3d93955f363941a8bf324fca9aa1b096",
-            "name": "2buena_score_97_vela_20230618_025412.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_025412.png",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
             "state": 1,
             "type": 1
         },
@@ -3001,18 +2965,6 @@
             "id": "9045c36b50d141398e42aef58fcb4003",
             "name": "2buena_score_97_vela_20230618_025700.png",
             "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_025700.png",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
-            "state": 2,
-            "type": 1
-        },
-        "fcae92aafae64602b6a489d5dda34aaf": {
-            "format": "png",
-            "id": "fcae92aafae64602b6a489d5dda34aaf",
-            "name": "2buena_score_96_vela_20230618_025712.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_025712.png",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -3077,7 +3029,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "ec57ad95b14f4fe3adebab3b4ed61b86": {
@@ -3089,7 +3041,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "229fec0558d54a52b4df3912b434ea2c": {
@@ -3101,7 +3053,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "82263797683f4efe8d12065922101860": {
@@ -3185,7 +3137,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "2a97e8eb229b427aa2e95ee5febd84bc": {
@@ -3197,7 +3149,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "595d7cb3dcb1431dbf581827d91b9640": {
@@ -3209,7 +3161,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "37755761bb61470cadf2187b5a4fa084": {
@@ -3221,7 +3173,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "8fcb304b9aba4dc1ac7f4e3eef3d3c4a": {
@@ -3245,7 +3197,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "512672eb46054b0fb63c3c1577eb8d3b": {
@@ -3353,7 +3305,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "2fca46278d0547139f2bab93fbd39895": {
@@ -3361,42 +3313,6 @@
             "id": "2fca46278d0547139f2bab93fbd39895",
             "name": "2buena_score_96_vela_20230618_045152.png",
             "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_045152.png",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
-            "state": 2,
-            "type": 1
-        },
-        "77be577d4e1d4aeab2ca24be81823da9": {
-            "format": "png",
-            "id": "77be577d4e1d4aeab2ca24be81823da9",
-            "name": "2buena_score_96_vela_20230618_045748.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_045748.png",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
-            "state": 1,
-            "type": 1
-        },
-        "ebafe908458d40ec9ea6373d263532ae": {
-            "format": "png",
-            "id": "ebafe908458d40ec9ea6373d263532ae",
-            "name": "2buena_score_96_vela_20230618_050318.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_050318.png",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
-            "state": 1,
-            "type": 1
-        },
-        "445ed17b809442be9dcde595a55a1597": {
-            "format": "png",
-            "id": "445ed17b809442be9dcde595a55a1597",
-            "name": "2buena_score_96_vela_20230618_050331.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_050331.png",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -3413,7 +3329,7 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "9bc16331c348430e9900625dd1faf096": {
@@ -3488,30 +3404,6 @@
             "state": 2,
             "type": 1
         },
-        "6b20eea18b0349fd8b352d75f7e526bf": {
-            "format": "png",
-            "id": "6b20eea18b0349fd8b352d75f7e526bf",
-            "name": "2buena_score_97_vela_20230618_053003.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_053003.png",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
-            "state": 1,
-            "type": 1
-        },
-        "bd23f4954a03471dbffe138e82037277": {
-            "format": "png",
-            "id": "bd23f4954a03471dbffe138e82037277",
-            "name": "2buena_score_96_vela_20230618_053103.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_053103.png",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
-            "state": 1,
-            "type": 1
-        },
         "9c3ffbf66c31421db4d97e57925ac975": {
             "format": "png",
             "id": "9c3ffbf66c31421db4d97e57925ac975",
@@ -3522,18 +3414,6 @@
                 "height": 1080
             },
             "state": 2,
-            "type": 1
-        },
-        "d606eca6b99c462d8f30dde634703981": {
-            "format": "png",
-            "id": "d606eca6b99c462d8f30dde634703981",
-            "name": "2buena_score_97_vela_20230618_053402.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_053402.png",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
-            "state": 1,
             "type": 1
         },
         "8940d4a4bfc8422ab4e1677a92b3bcde": {
@@ -3558,42 +3438,6 @@
                 "height": 1080
             },
             "state": 2,
-            "type": 1
-        },
-        "eef9c4ec7dff48218fe39a942e800efc": {
-            "format": "png",
-            "id": "eef9c4ec7dff48218fe39a942e800efc",
-            "name": "2buena_score_96_vela_20230618_055205.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_055205.png",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
-            "state": 1,
-            "type": 1
-        },
-        "a4bc09f1801740b5bbe481504aa425b9": {
-            "format": "png",
-            "id": "a4bc09f1801740b5bbe481504aa425b9",
-            "name": "2buena_score_96_vela_20230618_055228.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_055228.png",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
-            "state": 1,
-            "type": 1
-        },
-        "308b39cca61c49b7a042199be0186afc": {
-            "format": "png",
-            "id": "308b39cca61c49b7a042199be0186afc",
-            "name": "2buena_score_97_vela_20230618_055401.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_055401.png",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
-            "state": 1,
             "type": 1
         },
         "fa0b85a958f445679c53bd59816a585c": {
@@ -3689,42 +3533,6 @@
                 "width": 1920,
                 "height": 1080
             },
-            "state": 2,
-            "type": 1
-        },
-        "938625ecbe5a495baacb002f991832b7": {
-            "format": "png",
-            "id": "938625ecbe5a495baacb002f991832b7",
-            "name": "2buena_score_97_vela_20230618_062434.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_062434.png",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
-            "state": 1,
-            "type": 1
-        },
-        "26bf0eeec7b6473a9c0c491534d130e2": {
-            "format": "png",
-            "id": "26bf0eeec7b6473a9c0c491534d130e2",
-            "name": "2buena_score_96_vela_20230618_062555.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_062555.png",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
-            "state": 1,
-            "type": 1
-        },
-        "33d2ba317d3e403fb34e624914f61931": {
-            "format": "png",
-            "id": "33d2ba317d3e403fb34e624914f61931",
-            "name": "2buena_score_97_vela_20230618_063032.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_063032.png",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
             "state": 1,
             "type": 1
         },
@@ -3740,18 +3548,6 @@
             "state": 2,
             "type": 1
         },
-        "ba11c7b236c94c0ca29f0bbb5ccc5b20": {
-            "format": "png",
-            "id": "ba11c7b236c94c0ca29f0bbb5ccc5b20",
-            "name": "2buena_score_96_vela_20230618_063236.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_063236.png",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
-            "state": 1,
-            "type": 1
-        },
         "7fe8dec1f0474c419a9f7e3a01527d6b": {
             "format": "png",
             "id": "7fe8dec1f0474c419a9f7e3a01527d6b",
@@ -3764,18 +3560,6 @@
             "state": 2,
             "type": 1
         },
-        "48a5e8315def40ab954991d1e3ba6293": {
-            "format": "png",
-            "id": "48a5e8315def40ab954991d1e3ba6293",
-            "name": "2buena_score_96_vela_20230618_070452.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_070452.png",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
-            "state": 1,
-            "type": 1
-        },
         "6a9ca7160bb4466db150b84808fa0e92": {
             "format": "png",
             "id": "6a9ca7160bb4466db150b84808fa0e92",
@@ -3786,30 +3570,6 @@
                 "height": 1080
             },
             "state": 2,
-            "type": 1
-        },
-        "ff197e1246d54bbfb46ad9cef73cf138": {
-            "format": "png",
-            "id": "ff197e1246d54bbfb46ad9cef73cf138",
-            "name": "2buena_score_96_vela_20230618_080311.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_080311.png",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
-            "state": 1,
-            "type": 1
-        },
-        "fe355a4768a04807829f044f6aacabe9": {
-            "format": "png",
-            "id": "fe355a4768a04807829f044f6aacabe9",
-            "name": "2buena_score_97_vela_20230618_080402.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_080402.png",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
-            "state": 1,
             "type": 1
         },
         "f5015bbf610c4d60b8c5542343d0b46e": {
@@ -3860,18 +3620,6 @@
             "state": 2,
             "type": 1
         },
-        "59d72b14d52a4a64be6a4c42545c43f6": {
-            "format": "png",
-            "id": "59d72b14d52a4a64be6a4c42545c43f6",
-            "name": "2buena_score_97_vela_20230618_094017.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_094017.png",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
-            "state": 1,
-            "type": 1
-        },
         "62911dccc73a49529f4869fd9a9957d4": {
             "format": "png",
             "id": "62911dccc73a49529f4869fd9a9957d4",
@@ -3896,16 +3644,16 @@
             "state": 2,
             "type": 1
         },
-        "c0cf08bc0c774a539c30de76139dd660": {
+        "ec825205cd1645639828be24fee2ef53": {
             "format": "png",
-            "id": "c0cf08bc0c774a539c30de76139dd660",
-            "name": "2buena_score_97_vela_20230618_095315.png",
-            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_095315.png",
+            "id": "ec825205cd1645639828be24fee2ef53",
+            "name": "2buena_score_97_vela_20230618_142916.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_142916.png",
             "size": {
                 "width": 1920,
                 "height": 1080
             },
-            "state": 1,
+            "state": 2,
             "type": 1
         },
         "ed1333575a7b47b8ba2655a49f3d158c": {
@@ -3930,6 +3678,1182 @@
                 "height": 1080
             },
             "state": 2,
+            "type": 1
+        },
+        "7b83b6b5747c4d83991216b537f67ffa": {
+            "format": "png",
+            "id": "7b83b6b5747c4d83991216b537f67ffa",
+            "name": "1buena_score_98_vela_20230618_143531.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_98_vela_20230618_143531.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "61e47870c69e438e8515eb19a967e5bd": {
+            "format": "png",
+            "id": "61e47870c69e438e8515eb19a967e5bd",
+            "name": "1buena_score_98_vela_20230618_150215.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_98_vela_20230618_150215.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5f866c6bf8bf429e9cec0b9444805ff1": {
+            "format": "png",
+            "id": "5f866c6bf8bf429e9cec0b9444805ff1",
+            "name": "2buena_score_97_vela_20230618_152015.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_152015.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "04217dd032634b01b8f8c30e23d5e482": {
+            "format": "png",
+            "id": "04217dd032634b01b8f8c30e23d5e482",
+            "name": "1buena_score_98_vela_20230618_152030.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_98_vela_20230618_152030.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ea66626df51340a1a21072f8f7d282c6": {
+            "format": "png",
+            "id": "ea66626df51340a1a21072f8f7d282c6",
+            "name": "2buena_score_96_vela_20230618_155831.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_155831.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 1,
+            "type": 1
+        },
+        "066b47875d0a467db966f8cdd17c4cb2": {
+            "format": "png",
+            "id": "066b47875d0a467db966f8cdd17c4cb2",
+            "name": "2buena_score_96_vela_20230618_162601.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_162601.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2057453ec76c4070be7ad21f6ef99adb": {
+            "format": "png",
+            "id": "2057453ec76c4070be7ad21f6ef99adb",
+            "name": "1buena_score_98_vela_20230618_174701.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_98_vela_20230618_174701.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b57df911c6d44f60b8af9d1c0c19ff01": {
+            "format": "png",
+            "id": "b57df911c6d44f60b8af9d1c0c19ff01",
+            "name": "2buena_score_97_vela_20230618_174846.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_174846.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fe7b0e0dd7354bc4825d5920d5b5f241": {
+            "format": "png",
+            "id": "fe7b0e0dd7354bc4825d5920d5b5f241",
+            "name": "2buena_score_96_vela_20230618_175246.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_175246.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "06a9e1dfb6654ef99bb0842f83300841": {
+            "format": "png",
+            "id": "06a9e1dfb6654ef99bb0842f83300841",
+            "name": "2buena_score_97_vela_20230618_184046.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_184046.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b3cc345100a24c3fa78583361c80c018": {
+            "format": "png",
+            "id": "b3cc345100a24c3fa78583361c80c018",
+            "name": "1buena_score_98_vela_20230618_185531.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_98_vela_20230618_185531.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b7c097bb7c5940b6bd07baa37a41156a": {
+            "format": "png",
+            "id": "b7c097bb7c5940b6bd07baa37a41156a",
+            "name": "1buena_score_98_vela_20230618_191946.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_98_vela_20230618_191946.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0814784004a34e06a0ffe513815d3187": {
+            "format": "png",
+            "id": "0814784004a34e06a0ffe513815d3187",
+            "name": "1buena_score_99_vela_20230618_195346.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_99_vela_20230618_195346.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4b1d2baadcf14209aa0e71900781a472": {
+            "format": "png",
+            "id": "4b1d2baadcf14209aa0e71900781a472",
+            "name": "2buena_score_97_vela_20230618_201416.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_201416.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "adfbb0284b7e438c96fceecf21a7fb62": {
+            "format": "png",
+            "id": "adfbb0284b7e438c96fceecf21a7fb62",
+            "name": "2buena_score_97_vela_20230618_203330.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_203330.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a1a35c79224a4fa4a4002a4e1f5a8ede": {
+            "format": "png",
+            "id": "a1a35c79224a4fa4a4002a4e1f5a8ede",
+            "name": "2buena_score_97_vela_20230618_204216.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_204216.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "677075c70a0d4b59b31f52327f54131b": {
+            "format": "png",
+            "id": "677075c70a0d4b59b31f52327f54131b",
+            "name": "2buena_score_97_vela_20230618_211031.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_211031.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c1ed2a01a7024535b5cd0459273b44f5": {
+            "format": "png",
+            "id": "c1ed2a01a7024535b5cd0459273b44f5",
+            "name": "2buena_score_97_vela_20230618_214331.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_214331.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d88e872804aa4b0ebc6dd5d091ebc11a": {
+            "format": "png",
+            "id": "d88e872804aa4b0ebc6dd5d091ebc11a",
+            "name": "2buena_score_97_vela_20230618_222216.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_222216.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 1,
+            "type": 1
+        },
+        "60d3f55f070f4ce690997ada952ed591": {
+            "format": "png",
+            "id": "60d3f55f070f4ce690997ada952ed591",
+            "name": "2buena_score_96_vela_20230618_224731.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_224731.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c3f4c8fb504144a3b193d14034ebc157": {
+            "format": "png",
+            "id": "c3f4c8fb504144a3b193d14034ebc157",
+            "name": "1buena_score_98_vela_20230618_224746.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_98_vela_20230618_224746.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "017fe31aca7346579a14b8947005cf46": {
+            "format": "png",
+            "id": "017fe31aca7346579a14b8947005cf46",
+            "name": "2buena_score_96_vela_20230618_225101.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_225101.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0a394e3ae8f64ee8b19d106eefe87327": {
+            "format": "png",
+            "id": "0a394e3ae8f64ee8b19d106eefe87327",
+            "name": "1buena_score_98_vela_20230618_230301.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_98_vela_20230618_230301.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "262dbb3ec5ef47b88008493f8bbd5b35": {
+            "format": "png",
+            "id": "262dbb3ec5ef47b88008493f8bbd5b35",
+            "name": "2buena_score_97_vela_20230618_231333.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_231333.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b1a40c843ded410c98ca65033d0eb1d5": {
+            "format": "png",
+            "id": "b1a40c843ded410c98ca65033d0eb1d5",
+            "name": "2buena_score_97_vela_20230618_231848.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_231848.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a2d7b219af2d4f4182ebd3ab41b148cd": {
+            "format": "png",
+            "id": "a2d7b219af2d4f4182ebd3ab41b148cd",
+            "name": "1buena_score_98_vela_20230618_231904.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_98_vela_20230618_231904.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2b6ce44b2a014c03820e9a9124addc2e": {
+            "format": "png",
+            "id": "2b6ce44b2a014c03820e9a9124addc2e",
+            "name": "2buena_score_97_vela_20230618_232417.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_232417.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a29258ff9187498491d1eaf50c5f255c": {
+            "format": "png",
+            "id": "a29258ff9187498491d1eaf50c5f255c",
+            "name": "2buena_score_97_vela_20230618_232432.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_232432.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cb012426b08a47e98c281940e4bca73c": {
+            "format": "png",
+            "id": "cb012426b08a47e98c281940e4bca73c",
+            "name": "2buena_score_97_vela_20230618_232445.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_232445.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "48ea2a1bb0e44dbbb89566c70ebe0245": {
+            "format": "png",
+            "id": "48ea2a1bb0e44dbbb89566c70ebe0245",
+            "name": "1buena_score_98_vela_20230618_232503.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_98_vela_20230618_232503.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "beca6255e07d434b852609e11c51b020": {
+            "format": "png",
+            "id": "beca6255e07d434b852609e11c51b020",
+            "name": "2buena_score_97_vela_20230618_233326.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_233326.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ebbae4e6876349e2b98f698978d36d31": {
+            "format": "png",
+            "id": "ebbae4e6876349e2b98f698978d36d31",
+            "name": "1buena_score_99_vela_20230618_233343.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_99_vela_20230618_233343.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8912e52786d346d180f95ea986b26322": {
+            "format": "png",
+            "id": "8912e52786d346d180f95ea986b26322",
+            "name": "2buena_score_96_vela_20230618_233406.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_233406.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ae94d1139f7f4f2eaa4bdcd3c9c7c0a4": {
+            "format": "png",
+            "id": "ae94d1139f7f4f2eaa4bdcd3c9c7c0a4",
+            "name": "2buena_score_96_vela_20230618_234032.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_234032.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "99926d76f59b4554afd3f7b2eaee5090": {
+            "format": "png",
+            "id": "99926d76f59b4554afd3f7b2eaee5090",
+            "name": "2buena_score_97_vela_20230618_234050.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_234050.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "103462bb062c42f6be3d2e3c54a6ac7a": {
+            "format": "png",
+            "id": "103462bb062c42f6be3d2e3c54a6ac7a",
+            "name": "2buena_score_97_vela_20230618_234102.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_234102.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6b62e62985f64b3984f85460c2067060": {
+            "format": "png",
+            "id": "6b62e62985f64b3984f85460c2067060",
+            "name": "2buena_score_97_vela_20230618_234507.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_234507.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "91b5e79274bc4b56851465406aa8406f": {
+            "format": "png",
+            "id": "91b5e79274bc4b56851465406aa8406f",
+            "name": "2buena_score_97_vela_20230618_234617.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_234617.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fae79de4f52644c2bdb1f78b5ee11823": {
+            "format": "png",
+            "id": "fae79de4f52644c2bdb1f78b5ee11823",
+            "name": "2buena_score_97_vela_20230618_234637.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_234637.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "78ea6b5dd7ad41c3bdddcf49785655bb": {
+            "format": "png",
+            "id": "78ea6b5dd7ad41c3bdddcf49785655bb",
+            "name": "2buena_score_97_vela_20230618_234655.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_234655.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5f1b9ad4280c43d39d918bd3cb47f781": {
+            "format": "png",
+            "id": "5f1b9ad4280c43d39d918bd3cb47f781",
+            "name": "2buena_score_96_vela_20230618_234717.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_234717.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c2ccfcd426c34a6f8b635b2f0e824004": {
+            "format": "png",
+            "id": "c2ccfcd426c34a6f8b635b2f0e824004",
+            "name": "2buena_score_97_vela_20230618_234830.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_234830.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 1,
+            "type": 1
+        },
+        "7afefabb30804367b0359484068bd73c": {
+            "format": "png",
+            "id": "7afefabb30804367b0359484068bd73c",
+            "name": "2buena_score_96_vela_20230618_235533.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_235533.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a81cb55671194c03b0c14061b35fab1d": {
+            "format": "png",
+            "id": "a81cb55671194c03b0c14061b35fab1d",
+            "name": "2buena_score_97_vela_20230618_235633.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_235633.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f6387810c7d6459f824ad6eea20fa342": {
+            "format": "png",
+            "id": "f6387810c7d6459f824ad6eea20fa342",
+            "name": "1buena_score_98_vela_20230618_235647.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_98_vela_20230618_235647.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "009e2d3df4424482933b22a05298bc97": {
+            "format": "png",
+            "id": "009e2d3df4424482933b22a05298bc97",
+            "name": "2buena_score_97_vela_20230618_235710.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230618_235710.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "859a9d10ca854fafb815106c92b2daf5": {
+            "format": "png",
+            "id": "859a9d10ca854fafb815106c92b2daf5",
+            "name": "2buena_score_96_vela_20230618_235904.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230618_235904.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0b6888b6ae494347846de28030c387fb": {
+            "format": "png",
+            "id": "0b6888b6ae494347846de28030c387fb",
+            "name": "2buena_score_97_vela_20230619_000016.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230619_000016.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d7414c3af6824b62ba863b206da041b3": {
+            "format": "png",
+            "id": "d7414c3af6824b62ba863b206da041b3",
+            "name": "2buena_score_97_vela_20230619_000124.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230619_000124.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c013ef08993c4ff693c2c378d968fbd4": {
+            "format": "png",
+            "id": "c013ef08993c4ff693c2c378d968fbd4",
+            "name": "2buena_score_96_vela_20230619_000437.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230619_000437.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "338c0bffc8eb4086b6f9dc8753ccfa18": {
+            "format": "png",
+            "id": "338c0bffc8eb4086b6f9dc8753ccfa18",
+            "name": "2buena_score_96_vela_20230619_001329.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230619_001329.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 1,
+            "type": 1
+        },
+        "ed3321c2fe7e48b583fd1357b32d5138": {
+            "format": "png",
+            "id": "ed3321c2fe7e48b583fd1357b32d5138",
+            "name": "2buena_score_96_vela_20230619_001341.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230619_001341.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b0852791155f4024baa69dc89ef64d96": {
+            "format": "png",
+            "id": "b0852791155f4024baa69dc89ef64d96",
+            "name": "2buena_score_96_vela_20230619_001438.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230619_001438.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6fa82fabca22475f8760b1864f419edb": {
+            "format": "png",
+            "id": "6fa82fabca22475f8760b1864f419edb",
+            "name": "1buena_score_98_vela_20230619_002401.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_98_vela_20230619_002401.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1c2a62606aa5482ab81a7cf54ff0378a": {
+            "format": "png",
+            "id": "1c2a62606aa5482ab81a7cf54ff0378a",
+            "name": "2buena_score_97_vela_20230619_002416.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230619_002416.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9d39be0d3ff849b58d19facd95d0849f": {
+            "format": "png",
+            "id": "9d39be0d3ff849b58d19facd95d0849f",
+            "name": "2buena_score_97_vela_20230619_002559.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230619_002559.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cd88a046e7914a15a9de822bcb955c48": {
+            "format": "png",
+            "id": "cd88a046e7914a15a9de822bcb955c48",
+            "name": "1buena_score_99_vela_20230619_003016.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_99_vela_20230619_003016.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7591bcb59d6444f38a42e4e1f109f833": {
+            "format": "png",
+            "id": "7591bcb59d6444f38a42e4e1f109f833",
+            "name": "2buena_score_97_vela_20230619_003258.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230619_003258.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 1,
+            "type": 1
+        },
+        "cb3a84c912074b9c8a1b881fd365392b": {
+            "format": "png",
+            "id": "cb3a84c912074b9c8a1b881fd365392b",
+            "name": "2buena_score_97_vela_20230619_004613.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230619_004613.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 1,
+            "type": 1
+        },
+        "40e85a8f0cdf4b858a474d7885c6b78a": {
+            "format": "png",
+            "id": "40e85a8f0cdf4b858a474d7885c6b78a",
+            "name": "1buena_score_98_vela_20230619_004631.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_98_vela_20230619_004631.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "46678d482e1145c0bc97cede7be3d66a": {
+            "format": "png",
+            "id": "46678d482e1145c0bc97cede7be3d66a",
+            "name": "2buena_score_96_vela_20230619_004904.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230619_004904.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "026bf9d5a9194ac68e3c136824c7a14b": {
+            "format": "png",
+            "id": "026bf9d5a9194ac68e3c136824c7a14b",
+            "name": "1buena_score_98_vela_20230619_005031.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_98_vela_20230619_005031.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c039331a131e4e1aa48e50f7e74ec493": {
+            "format": "png",
+            "id": "c039331a131e4e1aa48e50f7e74ec493",
+            "name": "2buena_score_96_vela_20230619_005419.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230619_005419.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ddf343436ebd45a0a3239baabeaff1b0": {
+            "format": "png",
+            "id": "ddf343436ebd45a0a3239baabeaff1b0",
+            "name": "2buena_score_97_vela_20230619_010448.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230619_010448.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4fbec1eb6da649029b73e708d3dfe889": {
+            "format": "png",
+            "id": "4fbec1eb6da649029b73e708d3dfe889",
+            "name": "1buena_score_98_vela_20230619_010720.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_98_vela_20230619_010720.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "99111373af1848f8bbdfa2704787411b": {
+            "format": "png",
+            "id": "99111373af1848f8bbdfa2704787411b",
+            "name": "2buena_score_96_vela_20230619_011607.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230619_011607.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8b2c8601094e4310bde7084bb44db900": {
+            "format": "png",
+            "id": "8b2c8601094e4310bde7084bb44db900",
+            "name": "1buena_score_98_vela_20230619_012201.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_98_vela_20230619_012201.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fae8e99d9b374781b307a51bda855d19": {
+            "format": "png",
+            "id": "fae8e99d9b374781b307a51bda855d19",
+            "name": "2buena_score_96_vela_20230619_012215.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230619_012215.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "948a9704078e483ba69d374878762688": {
+            "format": "png",
+            "id": "948a9704078e483ba69d374878762688",
+            "name": "2buena_score_97_vela_20230619_012229.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230619_012229.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7cc434e2051b492bb4104fb9058821c2": {
+            "format": "png",
+            "id": "7cc434e2051b492bb4104fb9058821c2",
+            "name": "2buena_score_97_vela_20230619_012436.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230619_012436.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 1,
+            "type": 1
+        },
+        "92e6081680544aab8cf34f70da4b00da": {
+            "format": "png",
+            "id": "92e6081680544aab8cf34f70da4b00da",
+            "name": "2buena_score_96_vela_20230619_012632.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230619_012632.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "66331795f7a44b11a3ea9c473bb3b4bc": {
+            "format": "png",
+            "id": "66331795f7a44b11a3ea9c473bb3b4bc",
+            "name": "2buena_score_96_vela_20230619_013052.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230619_013052.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b307f446fed64d71925ceb06c66d449e": {
+            "format": "png",
+            "id": "b307f446fed64d71925ceb06c66d449e",
+            "name": "1buena_score_98_vela_20230619_013105.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_98_vela_20230619_013105.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b0201bcee00f442eac96d0a1e4a61bbf": {
+            "format": "png",
+            "id": "b0201bcee00f442eac96d0a1e4a61bbf",
+            "name": "2buena_score_97_vela_20230619_013503.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230619_013503.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "098474505a7844e2a99cfe0d5ee36bd9": {
+            "format": "png",
+            "id": "098474505a7844e2a99cfe0d5ee36bd9",
+            "name": "2buena_score_96_vela_20230619_014550.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230619_014550.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5daa53b446e6409c985e0c79aeab4e7b": {
+            "format": "png",
+            "id": "5daa53b446e6409c985e0c79aeab4e7b",
+            "name": "2buena_score_96_vela_20230619_014602.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230619_014602.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6db86b2f8ea945a58819c0f0354b9bfa": {
+            "format": "png",
+            "id": "6db86b2f8ea945a58819c0f0354b9bfa",
+            "name": "2buena_score_96_vela_20230619_015015.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230619_015015.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a694ef0c47cc486baf4783d2755f1424": {
+            "format": "png",
+            "id": "a694ef0c47cc486baf4783d2755f1424",
+            "name": "2buena_score_97_vela_20230619_015216.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230619_015216.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "91ae067701cb43b6ba03c493e1661c60": {
+            "format": "png",
+            "id": "91ae067701cb43b6ba03c493e1661c60",
+            "name": "2buena_score_96_vela_20230619_020926.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230619_020926.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7b64b464350e46faa4c7b807b55a2646": {
+            "format": "png",
+            "id": "7b64b464350e46faa4c7b807b55a2646",
+            "name": "2buena_score_97_vela_20230619_020951.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230619_020951.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dd205d15c04d4b238f676f69d8b50ac7": {
+            "format": "png",
+            "id": "dd205d15c04d4b238f676f69d8b50ac7",
+            "name": "1buena_score_98_vela_20230619_021039.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_98_vela_20230619_021039.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7644d9c784aa4bf8a894451dc22d2944": {
+            "format": "png",
+            "id": "7644d9c784aa4bf8a894451dc22d2944",
+            "name": "2buena_score_97_vela_20230619_021051.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230619_021051.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "53cc7fee3cbc4e98875b3b9c924806a4": {
+            "format": "png",
+            "id": "53cc7fee3cbc4e98875b3b9c924806a4",
+            "name": "2buena_score_97_vela_20230619_021132.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230619_021132.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "341f480e50894002b3bfbac040e153d8": {
+            "format": "png",
+            "id": "341f480e50894002b3bfbac040e153d8",
+            "name": "2buena_score_97_vela_20230619_021502.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_97_vela_20230619_021502.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "761e2bbac0904fe4ba6f66e63c05952b": {
+            "format": "png",
+            "id": "761e2bbac0904fe4ba6f66e63c05952b",
+            "name": "1buena_score_98_vela_20230619_021519.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\1buena_score_98_vela_20230619_021519.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d5a40ccfde594e369432cd9fe4f061a3": {
+            "format": "png",
+            "id": "d5a40ccfde594e369432cd9fe4f061a3",
+            "name": "2buena_score_96_vela_20230619_024548.png",
+            "path": "file:d:\\Documents\\jose\\forex\\\\ML2olimpo\\2buena_score_96_vela_20230619_024548.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e774fdda888388d00fe7384517d14a44": {
+            "format": "png",
+            "id": "e774fdda888388d00fe7384517d14a44",
+            "name": "1buena_score_98_vela_20230617_052245.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/1buena_score_98_vela_20230617_052245.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "23653a7b56d4a4d4f60e31a7e22bc4d0": {
+            "format": "png",
+            "id": "23653a7b56d4a4d4f60e31a7e22bc4d0",
+            "name": "1buena_score_98_vela_20230617_063145.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/1buena_score_98_vela_20230617_063145.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 1,
+            "type": 1
+        },
+        "af325913757f6902c164dbc97f4ae4c8": {
+            "format": "png",
+            "id": "af325913757f6902c164dbc97f4ae4c8",
+            "name": "1buena_score_98_vela_20230617_073146.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/1buena_score_98_vela_20230617_073146.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 1,
+            "type": 1
+        },
+        "6202f8d8f07effbab34d1c50b90a0a25": {
+            "format": "png",
+            "id": "6202f8d8f07effbab34d1c50b90a0a25",
+            "name": "1buena_score_98_vela_20230617_102530.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/1buena_score_98_vela_20230617_102530.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b54d15b64efabb569417b05625523938": {
+            "format": "png",
+            "id": "b54d15b64efabb569417b05625523938",
+            "name": "1buena_score_98_vela_20230617_105902.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/1buena_score_98_vela_20230617_105902.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 1,
+            "type": 1
+        },
+        "88ce4b30e335036484a51dd8f3f2e696": {
+            "format": "png",
+            "id": "88ce4b30e335036484a51dd8f3f2e696",
+            "name": "1buena_score_98_vela_20230617_111112.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/1buena_score_98_vela_20230617_111112.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 1,
+            "type": 1
+        },
+        "62a074d805dc1e48af998fd9effd9a42": {
+            "format": "png",
+            "id": "62a074d805dc1e48af998fd9effd9a42",
+            "name": "1buena_score_98_vela_20230617_125828.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/1buena_score_98_vela_20230617_125828.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 1,
+            "type": 1
+        },
+        "588eb10fe00b084bacc45f75922d604d": {
+            "format": "png",
+            "id": "588eb10fe00b084bacc45f75922d604d",
+            "name": "1buena_score_98_vela_20230617_125209.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/1buena_score_98_vela_20230617_125209.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 1,
+            "type": 1
+        },
+        "7a1e6c447c9946ecf69cfe9375c77c24": {
+            "format": "png",
+            "id": "7a1e6c447c9946ecf69cfe9375c77c24",
+            "name": "1buena_score_98_vela_20230617_131814.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/1buena_score_98_vela_20230617_131814.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 1,
+            "type": 1
+        },
+        "92ade9c69b4a8d3991f87dab91de5f50": {
+            "format": "png",
+            "id": "92ade9c69b4a8d3991f87dab91de5f50",
+            "name": "1buena_score_98_vela_20230617_132926.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/1buena_score_98_vela_20230617_132926.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 1,
+            "type": 1
+        },
+        "8be34fd738cdcd109f9b143892c3b7ad": {
+            "format": "png",
+            "id": "8be34fd738cdcd109f9b143892c3b7ad",
+            "name": "1buena_score_98_vela_20230617_135145.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/1buena_score_98_vela_20230617_135145.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 1,
+            "type": 1
+        },
+        "04c476d0c746d0237c82d19b1e8904ce": {
+            "format": "png",
+            "id": "04c476d0c746d0237c82d19b1e8904ce",
+            "name": "1buena_score_98_vela_20230617_170142.png",
+            "path": "file:d:/Documents/jose/forex/ML2olimpo/1buena_score_98_vela_20230617_170142.png",
+            "size": {
+                "width": 1536,
+                "height": 864
+            },
+            "state": 1,
             "type": 1
         }
     }
